@@ -1,0 +1,17 @@
+Docker --version
+Docker run hello-world
+Docker images
+Docker pull ubuntu
+Docker run -it -d ubuntu
+Docker ps -a
+Docker exec -it "" bash
+#echo helo
+# exit
+Docker stop ""
+Docker commit "" kosurya12/ubuntu
+Docker login
+Docker push kosurya12/ubuntu
+Docker rm "" 
+Docker ps -a
+Docker rmi ""
+Docker image
